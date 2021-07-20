@@ -75,6 +75,6 @@ with open ('class.txt') as links:
         print('\n')           
 
     driver.quit()
-
+#teste
     
 
